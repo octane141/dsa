@@ -1,0 +1,360 @@
+Data Structure and Algorithm Assignment 2
+
+List:
+1. Reverse a list in Python
+
+Code:
+
+
+              Output:
+             
+
+2. Concatenate two lists index-wise.
+
+Code:
+
+
+
+Output:
+
+
+3. Turn every item of a list into its square:
+
+Code:
+
+
+
+Output:
+
+
+
+4. Concatenate two lists in the following order.
+
+Code:
+
+
+
+Output:
+
+
+5. Iterate both lists simultaneously.
+
+Code:
+
+
+
+Output:
+
+
+6. Remove empty strings from the list of the strings
+Code:
+
+
+
+Output:
+
+
+
+7. Add new item to list after a specified item.
+
+Code:
+
+
+
+Output:
+
+
+
+8. Extend nested list by adding the sublist
+
+Code:
+
+
+
+Output:
+
+
+
+
+
+
+
+9. Replace list's item with new value if found
+
+Code:
+
+
+
+Output:
+
+
+
+10. Remove all occurrences of a specific item from a list
+
+Code:
+
+
+
+Output:
+
+
+
+
+Tuples:
+1. Reverse the tuple
+
+Code:
+
+
+
+Output:
+
+
+
+2. Access value 20 from the tuple.
+
+Code:
+
+
+
+Output:
+
+
+
+3. Create a tuple with single item 10
+
+Code:
+
+
+
+Output:
+
+
+4. Unpack the tuple into 4 variables
+
+Code:
+
+
+
+
+Output:
+
+
+
+5. Swap two tuples in python
+
+Code:
+
+
+
+Output:
+
+
+6. Copy Specific elements from one tuple into a new tuple
+
+Code:
+
+
+Output:
+
+
+
+7. Modify the tuple
+
+Code:
+
+
+
+Output:
+
+
+
+8. Sort a tuple of tuples by 2nd item
+
+Code:
+
+
+Output:
+
+
+9. Count the number of occurrences of item 'x' from a tuple
+
+Code:
+
+
+
+Output:
+
+
+
+10. Check if all items in the tuple are the same:
+
+Code:
+
+
+
+Output:
+
+
+
+
+Set:
+1. Add a list of elements to a set
+
+Code:
+
+
+
+Output:
+
+
+
+2. Return a new set of identical items from two sets
+
+Code:
+
+ 
+
+Output:
+
+
+
+3. Get only unique items from two sets
+
+Code:
+
+
+
+Output:
+
+
+4. Update the first set with items that don't exist in the second.
+
+Code:
+
+Output:
+
+
+5. Remove items from the set at once
+
+Code:
+
+
+
+Output:
+
+
+6. Return a set of elements present in Set A and B, but not both
+
+Code:
+
+
+
+Output:
+
+
+7. Check if two sets have any elements in common. If yes, display the common elements
+
+Code:
+
+
+
+Output:
+
+
+8. Update set1 by adding items from set2, except common items
+Code:
+
+
+Output:
+
+9. Remove items from set1 that are not common to both set1 and set2
+
+Code:
+
+
+Output:
+
+
+Dictionary: 
+1. Convert two lists into a dictionary
+
+Code:
+
+
+
+Output:
+
+
+
+2. Merge two Python dictionaries into one
+
+Code:
+
+
+Output:
+
+3. Initialize dictionary with default value
+Code:
+
+
+Output:
+
+
+4. Create a dictionary by extracting the keys from a given dictionary
+
+Code:
+
+
+
+Outputs:
+
+
+5. Delete a list of keys from a dictionary
+
+Code:
+
+
+
+Output:
+
+
+6. Check if a value exists in a dictionary
+
+Code:
+
+
+
+Output:
+
+
+
+7. Rename key of a dictionary
+
+Code:
+
+
+
+Output:
+
+
+
+8. Get the key of a minimum value from the following dictionary
+
+Code:
+
+
+
+Output:
+
+
+
+9. Change the value of a key in a nested dictionary
+
+Code:
+
+
+
+Output:
+
+
